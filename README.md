@@ -31,18 +31,6 @@ I am a postgraduate student in **Engineering Mathematics** at the **Institute of
 - **Technologies:** R, Quarto, caret, glmnet, pls, ggplot2  
 - 📂 [Repository Link](https://github.com/rajiba-sahoo2202/Expenditure-Modelling-and-Transformation)  
 
-#### 📉 Principal Component Analysis (PCA) – A Mathematical Exploration  
-- 📘 Detailed report on **multivariate normal distributions, covariance matrices, eigen decomposition, and PCA**.  
-- 📊 Implemented PCA in R with **visualizations of variance explained**.  
-- **Technologies:** R, Quarto, stats, ggfortify  
-- 📂 [Repository Link](https://github.com/rajiba-sahoo2202/PCA-Mathematics)  
-
-#### 🔁 Cross-Validation in Regression (Linear & Logistic Models)  
-- ⚡ Implemented **K-Fold, Leave-One-Out, and Train-Test CV**.  
-- 📏 Compared **R², Adjusted R², and RMSE** across methods.  
-- **Technologies:** Python (scikit-learn, numpy, pandas), R  
-- 📂 [Repository Link](https://github.com/rajiba-sahoo2202/CrossValidation-Regression)  
-
 ---
 
 ### 🛠️ Skills & Tools  
